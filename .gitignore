@@ -177,3 +177,7 @@ yarn-error.log
 /.idea/checkstyle-idea.xml
 /.idea/.gitignore
 /pnpm-lock.yaml
+
+components.d.ts
+auto-imports.d.ts
+cache
